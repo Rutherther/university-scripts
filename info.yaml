@@ -1,0 +1,8 @@
+root_path: /home/ruther/Documents/uni
+courses_path: current_semester
+current_semester: current_semester
+
+pdf_browser: evince
+folder_browser: nemo
+terminal: alacritty --working-directory
+web_browser: firefox
